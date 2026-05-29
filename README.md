@@ -6,7 +6,7 @@ To figure this out, I took a massive trading ledger containing over 211,000 tran
 
 ## Step-by-Step Workflow that I followed
 
-This project didn't start clean. Here is how I manually handled the data issues and built everything out from scratch:
+I first needed to clean the data. Here is how I manually handled the data issues and built everything out from scratch:
 
 ### 1. Data Cleaning & Solving the Leverage Issue (Excel)
 * **Wrangling the Rows:** I started with two raw spreadsheets: a massive transaction history (~211k rows) and a daily sentiment tracking file.
